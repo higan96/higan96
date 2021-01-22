@@ -8,5 +8,5 @@
 
 ### Released Apps
 
-- [iOS(AppStore)](https://apps.apple.com/jp/developer/norihiko-oba/id1438834674)
+- [iOS - AppStore](https://apps.apple.com/jp/developer/norihiko-oba/id1438834674)
     - [ゴミアプリ](https://apps.apple.com/jp/app/id1438834675)
